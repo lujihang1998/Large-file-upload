@@ -1,0 +1,24 @@
+/* Reset CSS */
+
+/* Remove default margin and padding */
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set the default font size and family */
+body {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #fff;
+}
+
+/* Remove underlines from links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Add more reset styles as needed... */
